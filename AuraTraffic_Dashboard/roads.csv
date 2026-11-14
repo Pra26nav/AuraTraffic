@@ -1,0 +1,11 @@
+source,destination,distance_km,traffic_min
+College,Airport,18,35
+College,City Center,7,14
+City Center,Airport,12,22
+City Center,Railway Station,5,11
+Railway Station,Airport,10,20
+College,Hospital,4,8
+Hospital,City Center,6,12
+Hospital,Railway Station,8,15
+Airport,Tech Park,14,25
+City Center,Tech Park,9,16
